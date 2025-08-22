@@ -6,6 +6,8 @@ This project focuses on detecting **needles in ultrasound images** using a **YOL
 
 The dataset was pre-labeled and exported from **Roboflow** in YOLO format with an accompanying `data.yaml` file. All model training and evaluation were done in **Google Colab**.
 
+Download model weights: [best.pt on Google Drive](https://drive.google.com/file/d/1ikYsR99YWjoisp3IVBXLQQPNYgR0Uzrq/view?usp=drive_link)
+
 ---
 
 ##  Dataset Setup & EDA
