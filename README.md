@@ -99,7 +99,7 @@ The data cleaning step is repeatable and safe*to rerun as part of the notebook p
 
 ---
 
-##  Project Highlights (for Resume)
+##  Project Highlights
 
 **Needle Detection in Ultrasound Images**
 Trained and evaluated a YOLOv11m object detection model on a labeled medical image dataset (Roboflow). Performed exploratory data analysis (EDA), data cleaning, and bounding box visualization. Tuned training hyperparameters in Google Colab and validated performance with visual inspection and evaluation metrics.
